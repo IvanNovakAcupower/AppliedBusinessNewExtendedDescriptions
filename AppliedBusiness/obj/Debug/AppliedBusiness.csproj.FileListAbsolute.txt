@@ -1,0 +1,9 @@
+C:\AcuProjects\AppliedBusiness\AppliedBusiness\bin\Debug\AppliedBusiness.dll
+C:\AcuProjects\AppliedBusiness\AppliedBusiness\bin\Debug\AppliedBusiness.pdb
+C:\AcuProjects\AppliedBusiness\AppliedBusiness\obj\Debug\AppliedBusiness.csproj.AssemblyReference.cache
+C:\AcuProjects\AppliedBusiness\AppliedBusiness\obj\Debug\AppliedBusiness.csproj.CoreCompileInputs.cache
+C:\AcuProjects\AppliedBusiness\AppliedBusiness\obj\Debug\AppliedBusiness.dll
+C:\AcuProjects\AppliedBusiness\AppliedBusiness\obj\Debug\AppliedBusiness.pdb
+C:\AcuProjects\AppliedBusiness\AppliedBusiness\bin\Debug\PX.Objects.AM.dll
+C:\AcuProjects\AppliedBusiness\AppliedBusiness\bin\Debug\PX.Objects.AM.xml
+C:\AcuProjects\AppliedBusiness\AppliedBusiness\obj\Debug\AppliedBusiness.csproj.CopyComplete
