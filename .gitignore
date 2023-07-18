@@ -1,52 +1,78 @@
-# Prerequisites
-*.d
+## Ignore devs folders and files
+*.sln
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+## Ignore Visual Studio folders and files
 
-# Linker output
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
 *.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
+*.meta
+*.obj
+*.iobj
 *.pch
+### *.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# Studio cache/options directory
+.vs/
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+## Word temporary
+~$*.doc*
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+# Others
+ClientBin/
+~$*
+*~
+/ACPRJira/obj/Debug/ACPRJira.csproj.AssemblyReference.cache
+/ACPRJira/obj/Debug/ACPRJira.csproj.CoreCompileInputs.cache
+/ACPRJira/obj/Debug/ACPRJira.csproj.FileListAbsolute.txt
+/ACPRJira/obj/Debug/ACPRJira.dll
+/ACPRJira/obj/Debug/ACPRJira.pdb
+/ACPRJira/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/ACPRJira/bin/Debug/ACPRJira.dll
+/ACPRJira/bin/Debug/ACPRJira.pdb
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+!Customization/**/[Bb]in/
